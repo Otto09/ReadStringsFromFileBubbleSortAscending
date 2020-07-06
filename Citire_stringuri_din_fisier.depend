@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586879466 source:c:\proiecte2020\curs8\citire_stringuri_din_fisier\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
+1587756851 source:c:\proiecte2020\curs8\citire_stringuri_din_fisier_si_ordonare_cu_strcmp\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
